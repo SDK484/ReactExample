@@ -150,7 +150,7 @@ class AtmWithdraw extends React.Component {
 			fiveNotes, tenNotes, twenNotes, machineTotal } = this.state;
 		
 		return (
-			<Card className="text-center" className="CardWithdraw">
+			<Card className="CardWithdraw">
 				<Card.Header>ATM Withdraw</Card.Header>
 				<Card.Body>
 					<Card.Title>Bank Statement</Card.Title>
